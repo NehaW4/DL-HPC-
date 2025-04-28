@@ -57,7 +57,7 @@ int main() {
     std::vector<int> maxValues = {100, 500, 1000, 1500};
 
     std::cout << "\n";
-    std::cout << "Name: Pratyush Funde Roll no: 41013 Class: BE A\n";
+    std::cout << "Name: Neha Wakhare Class: BE A\n";
     std::cout << "\n";
     std::cout << "--------------------------------------------------------------------------------------------------------------------\n";
     std::cout << "| Input Size | Max Value | CPU Sum     | GPU Sum     | CPU Time (s) | GPU Time (s) | Speedup | Efficiency |\n";
