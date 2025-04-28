@@ -101,7 +101,7 @@ int main() {
         scanf("%d", &inputSizes[i]);
     }
     
-    printf("\n Pratyush Funde [BE A ] 41013");
+    printf("\n Neha Wakhare [BE B ]");
     
     printf("\n+------------+---------------------+----------------------+-------------------+-------------------+---------------------+----------------------+-------------------+-------------------+\n");
     printf("| Input Size | Bubble Seq Time | Bubble Par Time | Bubble Speedup | Bubble Effi | Merge Seq Time | Merge Par Time | Merge Speedup | Merge Effi |");
