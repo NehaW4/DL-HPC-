@@ -30,7 +30,7 @@ void vectorAddCPU(int* A, int* B, int* C, int n) {
 
 int main() {
     int sizes[5] = {100000, 5000000, 8000000, 10000000, 30000000};
-    printf("\nName: Pratyush Funde  Class: BE A  Roll NO :41013)\n");
+    printf("\nName: Neha Wakhare )\n");
     printf("\nVector Addition Benchmark (Shared Memory)\n");
     printf("---------------------------------------------------------------\n");
     printf("| Vector Size | CPU Time(s) | GPU Time(s) | Speedup | Efficiency |\n");
